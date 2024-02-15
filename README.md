@@ -31,7 +31,7 @@ Predicting credit card users churn. Task is to help a bank predict who is likely
 * Total_Ct_Chng_Q4_Q1: Change in Transaction Count 
 * Avg_Utilization_Ratio: Average Card Utilization Ratio
 
-Model Building
+# Model Building
 During model evaluation in binary classification, there are two types of predictions that can be made incorrectly:
 
 Type 1 Error (False Positive): This occurs when the model incorrectly predicts a positive outcome when the actual outcome is negative.
